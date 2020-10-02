@@ -161,7 +161,7 @@ h3 {
 }
 
 .btn:hover {
-    background-color: #ff1e00;
+    background-color: #5e5e5e;
     cursor: pointer;
 }
 
@@ -476,7 +476,7 @@ nav.menu-programa a.seleccionado::after {
     border: 1px solid #ff3700;
     border-top: none;
     border-left: none;
-    background-color: #ffffff;
+    background-color: transparent;
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
