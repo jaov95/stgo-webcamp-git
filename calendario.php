@@ -74,9 +74,6 @@
         <?php } //cierre for each calendario ?>
     </div><!--.calendario-->
     <?php $conn->close(); ?>
-    <pre>
-        <?php var_dump($calendario); ?>
-    </pre>
 </section>
 
 

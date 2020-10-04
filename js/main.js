@@ -17,9 +17,9 @@
 
         //Para cambiar el texto del popup se debe cambiar el texto dentro del bindpopup
         L.marker([-34.172466, -70.741155]).addTo(map)
-            .bindPopup('STGO Web Camp <br> Nunca en Rancagua')
+            .bindPopup('STGO Web Camp <br> en Rancagua')
             .openPopup()
-            .bindTooltip('Wena ctm! jeje')
+            .bindTooltip('-34.172466, -70.741155')
             .openTooltip();
 
         //Campos usuario
