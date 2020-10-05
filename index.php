@@ -76,53 +76,7 @@
         </div>
     </section>
 
-    <section class="invitados contenedor seccion">
-        <h2>Nuestros invitados</h2>
-        <ul class="lista-invitados clearfix">
-            <li>
-                <div class="invitado">
-                    <img src="img/invitado1.jpg" alt="Imagen invitado">
-                    <p>Elsa Payo</p>
-                </div>
-
-            </li>
-            <li>
-                <div class="invitado">
-                    <img src="img/invitado2.jpg" alt="Imagen invitado">
-                    <p>Elsa Payo</p>
-                </div>
-
-            </li>
-            <li>
-                <div class="invitado">
-                    <img src="img/invitado3.jpg" alt="Imagen invitado">
-                    <p>Elsa Payo</p>
-                </div>
-
-            </li>
-            <li>
-                <div class="invitado">
-                    <img src="img/invitado4.jpg" alt="Imagen invitado">
-                    <p>Elsa Payo</p>
-                </div>
-
-            </li>
-            <li>
-                <div class="invitado">
-                    <img src="img/invitado5.jpg" alt="Imagen invitado">
-                    <p>Elsa Payo</p>
-                </div>
-
-            </li>
-            <li>
-                <div class="invitado">
-                    <img src="img/invitado6.jpg" alt="Imagen invitado">
-                    <p>Elsa Payo</p>
-                </div>
-
-            </li>
-        </ul>
-    </section>
+    <?php include_once 'includes/templates/section-invitados.php'; ?>
 
     <div class="contador parallax">
         <div class="contenedor">

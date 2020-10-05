@@ -161,7 +161,7 @@ h3 {
 }
 
 .btn:hover {
-    background-color: #5e5e5e;
+    background-color: #fe4918;
     cursor: pointer;
 }
 
@@ -476,13 +476,13 @@ nav.menu-programa a.seleccionado::after {
     border: 1px solid #ff3700;
     border-top: none;
     border-left: none;
-    background-color: transparent;
+    background-color: #ffffff;
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     -o-transform: rotate(45deg);
     transform: rotate(45deg);
-    bottom: -11.5px;
+    bottom: -10px;
 }
 
 @media (min-width: 768px) {
@@ -1048,6 +1048,17 @@ div.info-evento .titulo {
     color: #fe4918;
     font-weight: 700;
     font-size: 1.4em;
+}
+
+div.contenido-invitado p {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+div.contenido-invitado img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
 }
 
 

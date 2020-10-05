@@ -153,7 +153,6 @@
 
 $(function() {
 
-
     //Lettering titulo
     $('.nombre-sitio').lettering();
 
@@ -256,6 +255,6 @@ $(function() {
         $('#segundos').html(event.strftime('%S'));
     });
 
-
-
+    //colorbox
+    $('.contenido-invitado').colorbox({ inline: true, width: "50%" });
 });
