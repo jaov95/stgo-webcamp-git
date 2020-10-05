@@ -20,6 +20,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700;800&family=Oswald:wght@400;500;700&family=PT+Sans:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
     <link href="css/lightbox.css" rel="stylesheet" />
+    <link href="css/colorbox.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/main.css">
 
     <meta name="theme-color" content="#fafafa">
@@ -68,7 +69,7 @@
             <nav class="navegacion-principal">
                 <a href="conferencia.php">conferencia</a>
                 <a href="calendario.php">Calendario</a>
-                <a href="#">Invitados</a>
+                <a href="invitados.php">Invitados</a>
                 <a href="registro.php">Reservas</a>
             </nav>
         </div>

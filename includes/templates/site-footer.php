@@ -7,9 +7,9 @@
             <div class="ultimos-tweets">
                 <h3>Ultimos <span>Tweets</span></h3>
                 <ul class="tweets">
-                    <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. @ElsaPayo_Larva</li>
-                    <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. @Perkin_Vomismo</li>
-                    <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. @Chimamogli</li>
+                    <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. @ElsaPayo</li>
+                    <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. @Elsa_payo</li>
+                    <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. @Elsa_payito</li>
                 </ul>
             </div>
             <div class="menu">
@@ -36,6 +36,7 @@
     <script src="js/jquery.countdown.js"></script>
     <script src="js/jquery.lettering.js"></script>
     <script src="js/lightbox.js"></script>
+    <script src="js/jquery.colorbox-min.js"></script>
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
     <script src="js/main.js"></script>
 
